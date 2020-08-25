@@ -4,7 +4,7 @@
 
 My name is Rowenah Wambui from Nairobi, Kenya and I'm a web developer. Always trying to learn new things.
 
- <img src="https://github-readme-stats.vercel.app/api?username=RowenahWambui&count_private=true&show_icons=true" alt="Rowenah's github stats" />
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=RowenahWambui&count_private=true&show_icons=true" alt="Rowenah's github stats" /> -->
 
 <h5> Frontend</h5>
 <p >
