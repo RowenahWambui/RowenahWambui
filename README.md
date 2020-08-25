@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/RowenahWambui/RowenahWambui/master/proud_coder.png" width="400px" height="400px" >
+<img align="right" src="https://raw.githubusercontent.com/RowenahWambui/RowenahWambui/master/proud_coder.png" width="430px" height="400px" >
 
 My name is Rowenah Wambui from Nairobi, Kenya and I'm a programmer Currently learning Ruby. Building lots of sample websites here and learning as I go.
 Feel free to take a look at some of the projects I've built on this account.
